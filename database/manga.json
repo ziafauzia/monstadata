@@ -1,43 +1,54 @@
-{
-  "manga_id": "dragonslayer-peerless-regression",
-  "title": "A Dragonslayer's Peerless Regression",
-  "alternative_title": "Return of the Peerless Dragonslayer / 무적의 드래곤 슬레이어 회귀",
-  "status": "Ongoing",
-  "author": "Bbaebbaero",
-  "artist": "Sinsaeng",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Regression",
-    "Shounen"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": 4.8,
-  "synopsis": "Umat manusia berada di ambang kepunahan akibat amukan ras naga. Ryu, seorang ksatria pembunuh naga terakhir, akhirnya gugur dalam pertempuran melawan Raja Naga. Namun, takdir berkata lain. Alih-alih mati, ia justru kembali ke masa lalu, 10 tahun sebelum invasi naga dimulai. Dengan ingatan dan pengalaman bertarung dari kehidupan sebelumnya, Ryu bersumpah untuk mengubah masa depan, menyelamatkan rekan-rekannya, dan membantai setiap naga yang berani menginjakkan kaki di buminya.",
-  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/covers/dragonslayer-peerless-regression-cover.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "Kematian dan Permulaan Baru",
-      "images": [
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch001/01.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch001/02.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch001/03.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch001/04.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch001/05.jpg"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "Akademi Ksatria",
-      "images": [
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch002/01.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch002/02.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch002/03.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch002/04.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "manga_id": "dragonslayer-peerless-regression",
+    "title": "A Dragonslayer's Peerless Regression",
+    "alternative_title": "Return of the Peerless Dragonslayer / 무적의 드래곤 슬레이어 회귀",
+    "status": "Ongoing",
+    "author": "Bbaebbaero",
+    "artist": "Sinsaeng",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Regression",
+      "Shounen"
+    ],
+    "type": "Manhwa",
+    "release_year": 2024,
+    "rating": 4.8,
+    "synopsis": "Umat manusia berada di ambang kepunahan akibat amukan ras naga. Ryu, seorang ksatria pembunuh naga terakhir, akhirnya gugur dalam pertempuran melawan Raja Naga. Namun, takdir berkata lain. Alih-alih mati, ia justru kembali ke masa lalu, 10 tahun sebelum invasi naga dimulai. Dengan ingatan dan pengalaman bertarung dari kehidupan sebelumnya, Ryu bersumpah untuk mengubah masa depan, menyelamatkan rekan-rekannya, dan membantai setiap naga yang berani menginjakkan kaki di buminya.",
+    "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/covers/dragonslayer-peerless-regression-cover.jpg",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Kematian dan Permulaan Baru",
+        "images": [
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch001/01.jpg",
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch001/02.jpg",
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch001/03.jpg",
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch001/04.jpg",
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch001/05.jpg"
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Akademi Ksatria",
+        "images": [
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch002/01.jpg",
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch002/02.jpg",
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch002/03.jpg",
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch002/04.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "manga_id": "Action",
+    "title": "Action",
+    "alternative_title": "",
+    "status": "Ongoing",
+    "type": "Unknown",
+    "cover_url": "https://via.placeholder.com/200x300/2a2a2a/39ff14?text=Action",
+    "chapters": []
+  }
+]
